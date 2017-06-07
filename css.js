@@ -1,1 +1,1 @@
-window.location.href="http://www.bbet66.com/";
+window.location.href="http://www.018086.com/";
